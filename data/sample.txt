@@ -1,0 +1,2 @@
+Hello, this is a sample text file.
+This file is used to demonstrate the TextLoader.
