@@ -1,0 +1,11 @@
+Python and LangChain Sample Document
+
+Python is a popular programming language used for automation, web development, data science, and AI.
+
+LangChain is a framework for building applications powered by language models. It helps with document loading, text splitting, embeddings, retrieval, and chain-based workflows.
+
+In a Retrieval-Augmented Generation (RAG) pipeline, documents are loaded, split into chunks, embedded into vectors, and stored in a vector database such as Chroma.
+
+When a user asks a question, the system retrieves relevant chunks and sends them to a language model like Gemini to generate an answer.
+
+This document is used as sample input for testing a basic RAG chatbot.
